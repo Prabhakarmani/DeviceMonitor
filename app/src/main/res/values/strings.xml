@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DeviceMonitor</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="capture_count">Capture Count</string>
+    <string name="_0">0</string>
+    <string name="frequency_min">Frequency (min)</string>
+    <string name="manual_data_refresh">Refresh Data</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="not_charging">Not Charging</string>
+    <string name="charging">Charging</string>
+    <string name="connectivity">Connectivity</string>
+    <string name="battery_charging">Battery Charging</string>
+    <string name="battery_charge">Battery Charge</string>
+    <string name="location">Location</string>
+    <string name="_31_967095_78_145844">31.967095, 78.145844</string>
+    <string name="_56">56%</string>
+    <string name="logo">logo</string>
+    <string name="battery_percentage">%1$d%%</string>
+    <string name="location_text">%1$.6f, %2$.6f</string>
+
+</resources>
